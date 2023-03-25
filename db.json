@@ -28,5 +28,12 @@
       "IMDB_Rating": 7.2,
       "ticket": 200
     }
+  ],
+  "reports": [
+    {
+      "id": 1,
+      "username": "Himanshu",
+      "movie": "I Am Legend"
+    }
   ]
 }
